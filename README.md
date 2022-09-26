@@ -1,6 +1,6 @@
 CPSC 332 Database Project
 Professor A. Shirley
-May 8, 20222
+May 8, 2022
 
 Group Names and Emails:
 
